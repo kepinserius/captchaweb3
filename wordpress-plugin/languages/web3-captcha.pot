@@ -1,0 +1,365 @@
+# Copyright (C) 2023 Tim Web3 CAPTCHA
+# This file is distributed under the GPL v2 or later.
+msgid ""
+msgstr ""
+"Project-Id-Version: Web3 CAPTCHA 1.0.0\n"
+"Report-Msgid-Bugs-To: https://web3captcha.com/support\n"
+"POT-Creation-Date: 2023-12-01 00:00:00+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2023-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+
+#: web3-captcha.php:134
+msgid "Verifikasi Anda adalah Manusia"
+msgstr ""
+
+#: web3-captcha.php:135
+msgid "Memuat puzzle..."
+msgstr ""
+
+#: web3-captcha.php:136
+msgid "Wallet Ethereum diperlukan untuk verifikasi"
+msgstr ""
+
+#: web3-captcha.php:137
+msgid "Hubungkan Wallet"
+msgstr ""
+
+#: web3-captcha.php:138
+msgid "Masukkan solusi di sini"
+msgstr ""
+
+#: web3-captcha.php:139
+msgid "Verifikasi"
+msgstr ""
+
+#: web3-captcha.php:140
+msgid "Didukung oleh Web3 CAPTCHA"
+msgstr ""
+
+#: web3-captcha.php:141
+msgid "Verifikasi berhasil! Anda mendapatkan token."
+msgstr ""
+
+#: web3-captcha.php:142
+msgid "Verifikasi gagal. Silakan coba lagi."
+msgstr ""
+
+#: web3-captcha.php:143
+msgid "Mohon selesaikan CAPTCHA terlebih dahulu."
+msgstr ""
+
+#: web3-captcha.php:246
+msgid "Error: Mohon selesaikan CAPTCHA terlebih dahulu."
+msgstr ""
+
+#: web3-captcha.php:262
+msgid "Error: Mohon selesaikan CAPTCHA terlebih dahulu."
+msgstr ""
+
+#: web3-captcha.php:279
+msgid "Error: Mohon selesaikan CAPTCHA terlebih dahulu."
+msgstr ""
+
+#: web3-captcha.php:280
+msgid "CAPTCHA Tidak Valid"
+msgstr ""
+
+#: web3-captcha.php:296
+msgid "Error: Mohon selesaikan CAPTCHA terlebih dahulu."
+msgstr ""
+
+#: web3-captcha.php:297
+msgid "CAPTCHA Tidak Valid"
+msgstr ""
+
+#: web3-captcha.php:313
+msgid "Error: Mohon selesaikan CAPTCHA terlebih dahulu."
+msgstr ""
+
+#: admin/settings-page.php:42
+msgid "Pengaturan Umum"
+msgstr ""
+
+#: admin/settings-page.php:50
+msgid "Integrasi"
+msgstr ""
+
+#: admin/settings-page.php:58
+msgid "Tampilan"
+msgstr ""
+
+#: admin/settings-page.php:66
+msgid "Pengaturan Blockchain"
+msgstr ""
+
+#: admin/settings-page.php:74
+msgid "Alamat Kontrak CAPTCHA"
+msgstr ""
+
+#: admin/settings-page.php:82
+msgid "Alamat Kontrak Token"
+msgstr ""
+
+#: admin/settings-page.php:90
+msgid "Jaringan Blockchain"
+msgstr ""
+
+#: admin/settings-page.php:98
+msgid "URL Provider RPC"
+msgstr ""
+
+#: admin/settings-page.php:106
+msgid "Jumlah Token Hadiah"
+msgstr ""
+
+#: admin/settings-page.php:114
+msgid "Jenis Puzzle CAPTCHA"
+msgstr ""
+
+#: admin/settings-page.php:122
+msgid "Tingkat Kesulitan"
+msgstr ""
+
+#: admin/settings-page.php:130
+msgid "Aktifkan pada Form"
+msgstr ""
+
+#: admin/settings-page.php:138
+msgid "Tema"
+msgstr ""
+
+#: admin/settings-page.php:146
+msgid "Ukuran"
+msgstr ""
+
+#: admin/settings-page.php:158
+msgid "Konfigurasikan pengaturan umum untuk Web3 CAPTCHA."
+msgstr ""
+
+#: admin/settings-page.php:165
+msgid "Pilih di mana Web3 CAPTCHA akan ditampilkan di situs Anda."
+msgstr ""
+
+#: admin/settings-page.php:172
+msgid "Kustomisasi tampilan Web3 CAPTCHA."
+msgstr ""
+
+#: admin/settings-page.php:179
+msgid "Konfigurasikan integrasi blockchain untuk Web3 CAPTCHA."
+msgstr ""
+
+#: admin/settings-page.php:188
+msgid "Alamat kontrak pintar Web3 CAPTCHA di blockchain."
+msgstr ""
+
+#: admin/settings-page.php:199
+msgid "Alamat kontrak token ERC-20 untuk hadiah."
+msgstr ""
+
+#: admin/settings-page.php:211
+msgid "Ethereum Mainnet"
+msgstr ""
+
+#: admin/settings-page.php:212
+msgid "Goerli Testnet"
+msgstr ""
+
+#: admin/settings-page.php:213
+msgid "Sepolia Testnet"
+msgstr ""
+
+#: admin/settings-page.php:214
+msgid "Polygon"
+msgstr ""
+
+#: admin/settings-page.php:215
+msgid "Mumbai Testnet"
+msgstr ""
+
+#: admin/settings-page.php:217
+msgid "Jaringan blockchain tempat kontrak di-deploy."
+msgstr ""
+
+#: admin/settings-page.php:228
+msgid "URL provider RPC untuk terhubung ke blockchain (opsional)."
+msgstr ""
+
+#: admin/settings-page.php:239
+msgid "Jumlah token yang diberikan sebagai hadiah untuk verifikasi CAPTCHA yang berhasil."
+msgstr ""
+
+#: admin/settings-page.php:251
+msgid "Gambar"
+msgstr ""
+
+#: admin/settings-page.php:252
+msgid "Matematika"
+msgstr ""
+
+#: admin/settings-page.php:253
+msgid "Teks"
+msgstr ""
+
+#: admin/settings-page.php:254
+msgid "Audio"
+msgstr ""
+
+#: admin/settings-page.php:256
+msgid "Jenis puzzle CAPTCHA yang akan ditampilkan kepada pengguna."
+msgstr ""
+
+#: admin/settings-page.php:267
+msgid "Mudah"
+msgstr ""
+
+#: admin/settings-page.php:268
+msgid "Sedang"
+msgstr ""
+
+#: admin/settings-page.php:269
+msgid "Sulit"
+msgstr ""
+
+#: admin/settings-page.php:271
+msgid "Tingkat kesulitan puzzle CAPTCHA."
+msgstr ""
+
+#: admin/settings-page.php:285
+msgid "Form Login"
+msgstr ""
+
+#: admin/settings-page.php:290
+msgid "Form Pendaftaran"
+msgstr ""
+
+#: admin/settings-page.php:295
+msgid "Form Komentar"
+msgstr ""
+
+#: admin/settings-page.php:300
+msgid "Form Reset Password"
+msgstr ""
+
+#: admin/settings-page.php:305
+msgid "WooCommerce Checkout"
+msgstr ""
+
+#: admin/settings-page.php:308
+msgid "Pilih form di mana Web3 CAPTCHA akan ditampilkan."
+msgstr ""
+
+#: admin/settings-page.php:319
+msgid "Terang"
+msgstr ""
+
+#: admin/settings-page.php:320
+msgid "Gelap"
+msgstr ""
+
+#: admin/settings-page.php:321
+msgid "Otomatis (Mengikuti Tema WordPress)"
+msgstr ""
+
+#: admin/settings-page.php:323
+msgid "Tema untuk widget CAPTCHA."
+msgstr ""
+
+#: admin/settings-page.php:334
+msgid "Kompak"
+msgstr ""
+
+#: admin/settings-page.php:335
+msgid "Normal"
+msgstr ""
+
+#: admin/settings-page.php:336
+msgid "Besar"
+msgstr ""
+
+#: admin/settings-page.php:338
+msgid "Ukuran widget CAPTCHA."
+msgstr ""
+
+#: admin/settings-page.php:361
+msgid "Versi"
+msgstr ""
+
+#: admin/settings-page.php:370
+msgid "Simpan Perubahan"
+msgstr ""
+
+#: admin/settings-page.php:378
+msgid "Shortcode"
+msgstr ""
+
+#: admin/settings-page.php:379
+msgid "Gunakan shortcode berikut untuk menampilkan Web3 CAPTCHA di halaman atau posting:"
+msgstr ""
+
+#: admin/settings-page.php:384
+msgid "Dokumentasi"
+msgstr ""
+
+#: admin/settings-page.php:385
+msgid "Untuk informasi lebih lanjut tentang cara menggunakan Web3 CAPTCHA, silakan kunjungi:"
+msgstr ""
+
+#: admin/settings-page.php:386
+msgid "Lihat Dokumentasi"
+msgstr ""
+
+#: admin/settings-page.php:390
+msgid "Bantuan & Dukungan"
+msgstr ""
+
+#: admin/settings-page.php:391
+msgid "Jika Anda memiliki pertanyaan atau masalah, silakan hubungi tim dukungan kami:"
+msgstr ""
+
+#: admin/settings-page.php:392
+msgid "Dapatkan Bantuan"
+msgstr ""
+
+#: includes/class-web3-captcha-validator.php:119
+msgid "Data permintaan tidak lengkap."
+msgstr ""
+
+#: includes/class-web3-captcha-validator.php:140
+msgid "Verifikasi berhasil!"
+msgstr ""
+
+#: includes/class-web3-captcha-validator.php:146
+msgid "Verifikasi gagal. Solusi tidak valid."
+msgstr ""
+
+#: includes/class-web3-captcha-validator.php:185
+msgid "Data permintaan tidak lengkap."
+msgstr ""
+
+#: includes/class-web3-captcha-validator.php:195
+msgid "Hadiah token berhasil diklaim!"
+msgstr ""
+
+#: includes/class-web3-captcha-validator.php:198
+msgid "Gagal mengklaim hadiah token."
+msgstr ""
+
+#: includes/class-web3-captcha-validator.php:337
+msgid "Hitung hasil dari operasi matematika berikut"
+msgstr ""
+
+#: includes/class-web3-captcha-validator.php:366
+msgid "Jawab pertanyaan berikut"
+msgstr ""
+
+#: includes/class-web3-captcha-validator.php:374
+msgid "Dengarkan dan ketik kata yang diucapkan"
+msgstr ""
+
+#: includes/class-web3-captcha-validator.php:382
+msgid "Ketik teks yang terlihat pada gambar"
+msgstr "" 
